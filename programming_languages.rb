@@ -22,3 +22,4 @@ def reformat_languages(languages)
     end
   end
   language_attributes 
+end
